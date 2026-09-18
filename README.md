@@ -133,7 +133,7 @@ A lightweight Linux disk I/O benchmark measuring sequential write throughput and
 
 <div align="center">
 
-<img
+<img style="width=70%"
   height="230"
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arao1118&theme=tokyonight&animation=load"
   alt="Profile Details"
