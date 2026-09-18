@@ -22,6 +22,7 @@ I'm a Computer Science undergraduate who enjoys building things that work end to
 
 I'm looking for **software development opportunities**, especially backend roles, where I can keep learning and ship real products.
 
+<!--
 | | |
 |---|---|
 | 🎓 **Education** | B.Tech in Computer Science, ABES Engineering College (AKTU), Oct 2023 – Jul 2027 |
@@ -30,6 +31,7 @@ I'm looking for **software development opportunities**, especially backend roles
 | 📫 **Reach me** | [abhayrao1118@gmail.com](mailto:abhayrao1118@gmail.com) · [LinkedIn](https://www.linkedin.com/in/arao1811) |
 
 ---
+-->
 
 ## 🛠️ Tech Stack
 
