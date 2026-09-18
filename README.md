@@ -161,7 +161,7 @@ A lightweight Linux disk I/O benchmark measuring sequential write throughput and
 
 <br>
 
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhayRao-1&theme=radical&hide_border=true&background=00000000&ring=7F52FF&fire=3DDC84&currStreakLabel=3DDC84)](https://github.com/arao1118)
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=arao1118&theme=radical&hide_border=true&background=00000000&ring=7F52FF&fire=3DDC84&currStreakLabel=3DDC84)](https://github.com/arao1118)
 
 </div>
 
