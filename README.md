@@ -147,6 +147,8 @@ A lightweight Linux disk I/O benchmark measuring sequential write throughput and
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=arao1118&theme=tokyonight&hide_border=true)](https://github.com/arao1118)
 
+<img src="https://raw.githubusercontent.com/arao1118/arao1118/output/snake.svg" alt="Snake animation" width="100%"/>
+
 </div>
 
 <!-- <img
