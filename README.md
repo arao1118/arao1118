@@ -88,7 +88,7 @@ A lightweight Linux disk I/O benchmark measuring sequential write throughput and
 | [🏓 Pong](https://github.com/arao1118/Pong) | A simple Pong game written from scratch |
 
 ---
-
+<!--
 ## 📄 Resume Snapshot
 
 <details open>
@@ -107,13 +107,14 @@ A lightweight Linux disk I/O benchmark measuring sequential write throughput and
 
 </details>
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/arao1118/arao1118/blob/main/Resume.pdf">
     <img src="https://img.shields.io/badge/📄%20View%20Full%20Resume-58A6FF?style=for-the-badge" alt="View Full Resume" />
   </a>
 </p>
 
---- -->
+---
+-->
 
 ---
 
