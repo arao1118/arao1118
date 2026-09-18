@@ -36,12 +36,12 @@ I'm looking for **software development opportunities**, especially backend roles
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,nodejs,express,react,vite&perline=8" alt="Languages and frameworks" />
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,nodejs,express&perline=8" alt="Languages and frameworks" />
 <br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,git,github,postman,jest,linux&perline=8" alt="Databases and tools" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,git,github,postman,jest&perline=8" alt="Databases and tools" />
 
 </div>
-
+<!--
 | Category | Technologies |
 |---|---|
 | **Languages** | C, C++, JavaScript, TypeScript |
@@ -50,7 +50,7 @@ I'm looking for **software development opportunities**, especially backend roles
 | **Frontend** | React, Vite |
 | **Graphics / Systems** | SDL3, POSIX / Linux system calls |
 | **Developer Tools** | Git, GitHub, Postman, VS Code, Jest |
-
+-->
 ---
 
 ## 🚀 Featured Projects
