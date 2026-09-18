@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Abhay%20Rao&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20%C2%B7%20Backend%20Development&descSize=18&descAlignY=58" alt="Abhay Rao banner" width="100%" />
 
 <a href="https://github.com/arao1118">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Hi%2C+I%27m+Abhay+%F0%9F%91%8B;Backend+developer+%C2%B7+Node.js+%26+Express;Systems+tinkerer+in+C+%2F+C%2B%2B;Building+APIs%2C+games+%26+benchmarks" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Hi%2C+I%27m+Abhay+%F0%9F%91%8B;Backend+developer+%C2%B7+Node.js+%26+Express;Systems+tinkerer+in+C+%2F+C%2B%2B" alt="Typing SVG" />
 </a>
 
 <br/>
