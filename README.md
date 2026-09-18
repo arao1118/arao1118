@@ -131,7 +131,7 @@ A lightweight Linux disk I/O benchmark measuring sequential write throughput and
 
 ## 📊 GitHub Stats
 
-<div align="center>
+<div align="center">
 
 <img
   height="170"
