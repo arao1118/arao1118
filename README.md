@@ -141,7 +141,7 @@ A lightweight Linux disk I/O benchmark measuring sequential write throughput and
 
 </br> </br>
 
-<div display="inline">
+<span display="inline">
   
 <img
   height="170"
@@ -155,7 +155,7 @@ A lightweight Linux disk I/O benchmark measuring sequential write throughput and
   alt="Top Languages"
 />
 
-</div>
+</span>
 
 </br> </br>
 
