@@ -18,7 +18,7 @@
 
 ## 👋 About Me
 
-I'm a **Computer Science undergraduate at ABES Engineering College (AKTU, class of 2027)** who enjoys building things that work end to end. On the **backend** side I design REST APIs, authentication flows and rate limiters with Node.js, Express, MongoDB and Redis. On the **systems** side I like getting close to the machine: writing games and a paint app in C with SDL3, and a Linux disk benchmark in C++ using direct I/O.
+I'm a Computer Science undergraduate who enjoys building things that work end to end. On the **backend** side I design scalable web applications with Node.js, Express, MongoDB and Redis. On the **systems** side I like getting close to the machine: writing low level code with C/C++.
 
 I'm looking for **software development opportunities**, especially backend roles, where I can keep learning and ship real products.
 
