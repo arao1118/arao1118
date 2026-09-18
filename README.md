@@ -149,7 +149,7 @@ A lightweight Linux disk I/O benchmark measuring sequential write throughput and
   alt="GitHub Stats"
 />
 
-<img
+<img style="width=70%"
   height="170"
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arao1118&theme=tokyonight&animation=load"
   alt="Top Languages"
