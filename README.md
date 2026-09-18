@@ -131,7 +131,7 @@ A lightweight Linux disk I/O benchmark measuring sequential write throughput and
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 <img style="width=70%"
   height="230"
@@ -160,6 +160,52 @@ A lightweight Linux disk I/O benchmark measuring sequential write throughput and
 </br> </br>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=arao1118&theme=tokyonight&hide_border=true)](https://github.com/arao1118)
+
+</div> -->
+
+<div align="center">
+
+  <!-- Profile Details - Block Level -->
+  <div style="width:70%; margin:0 auto;">
+    <img
+      width="100%"
+      height="230"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arao1118&theme=tokyonight&animation=load"
+      alt="Profile Details"
+    />
+  </div>
+
+  <br/>
+
+  <!-- Stats + Top Languages - Inline/Flex -->
+  <div style="display:flex; justify-content:center; align-items:center; gap:10px;">
+
+    <img
+      width="35%"
+      height="170"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arao1118&theme=tokyonight&animation=load"
+      alt="GitHub Stats"
+    />
+
+    <img
+      width="35%"
+      height="170"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arao1118&theme=tokyonight&animation=load"
+      alt="Top Languages"
+    />
+
+  </div>
+
+  <br/>
+
+  <!-- GitHub Streak - Block Level -->
+  <div style="width:70%; margin:0 auto;">
+    <img
+      width="100%"
+      src="https://streak-stats.demolab.com/?user=arao1118&theme=tokyonight&hide_border=true"
+      alt="GitHub Streak"
+    />
+  </div>
 
 </div>
 
