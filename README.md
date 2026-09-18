@@ -51,8 +51,8 @@ I'm looking for **software development opportunities**, especially backend roles
 | **Frontend** | React, Vite |
 | **Graphics / Systems** | SDL3, POSIX / Linux system calls |
 | **Developer Tools** | Git, GitHub, Postman, VS Code, Jest |
--->
 ---
+-->
 
 ## 🚀 Featured Projects
 
