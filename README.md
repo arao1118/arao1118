@@ -147,9 +147,15 @@ A lightweight Linux disk I/O benchmark measuring sequential write throughput and
 
 <br/>
 
-<img
+<!-- <img
   src="https://streak-stats.demolab.com/?user=arao1118&theme=catppuccin-mocha&hide_border=true"
   alt="GitHub Streak"
+/> -->
+
+<img
+  height="170"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/streak?username=arao1118&theme=tokyonight"
+  alt="Top Languages"
 />
 
 </div>
