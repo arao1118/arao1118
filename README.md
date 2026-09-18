@@ -25,7 +25,7 @@ I'm looking for **software development opportunities**, especially backend roles
 | | |
 |---|---|
 | 🎓 **Education** | B.Tech in Computer Science, ABES Engineering College (AKTU), Oct 2023 – Jul 2027 |
-| 💼 **Focus** | Backend development, REST APIs, system design (MVC) |
+| 💼 **Focus** | Backend development, Systems Programming |
 | 🧠 **Strong foundations in** | Data Structures & Algorithms, OOP, System Design |
 | 📍 **Based in** | Uttar Pradesh, India |
 | 📫 **Reach me** | [abhayrao1118@gmail.com](mailto:abhayrao1118@gmail.com) · [LinkedIn](https://www.linkedin.com/in/arao1811) |
