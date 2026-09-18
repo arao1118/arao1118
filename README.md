@@ -141,7 +141,7 @@ A lightweight Linux disk I/O benchmark measuring sequential write throughput and
 
 <img
   height="170"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arao1118&theme=tokyonight"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arao1118&theme=gruvbox"
   alt="Top Languages"
 />
 
