@@ -145,8 +145,6 @@ A lightweight Linux disk I/O benchmark measuring sequential write throughput and
   alt="Top Languages"
 />
 
-<br/>
-
 <!-- <img
   src="https://streak-stats.demolab.com/?user=arao1118&theme=catppuccin-mocha&hide_border=true"
   alt="GitHub Streak"
