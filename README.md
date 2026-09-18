@@ -135,20 +135,20 @@ A lightweight Linux disk I/O benchmark measuring sequential write throughput and
 
 <img
   height="170"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arao1118&theme=catppuccin"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arao1118&theme=catppuccin-mocha"
   alt="GitHub Stats"
 />
 
 <img
   height="170"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arao1118&theme=catppuccin"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arao1118&theme=catppuccin-mocha"
   alt="Top Languages"
 />
 
 <br/>
 
 <img
-  src="https://streak-stats.demolab.com/?user=arao1118&theme=tokyonight&hide_border=true"
+  src="https://streak-stats.demolab.com/?user=arao1118&theme=catppuccin-mocha&hide_border=true"
   alt="GitHub Streak"
 />
 
