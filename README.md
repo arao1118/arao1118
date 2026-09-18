@@ -165,7 +165,6 @@ A lightweight Linux disk I/O benchmark measuring sequential write throughput and
 
 <div align="center">
 
-  <!-- Profile Details - Block Level -->
   <div style="width:70%; margin:0 auto;">
     <img
       width="100%"
@@ -177,7 +176,6 @@ A lightweight Linux disk I/O benchmark measuring sequential write throughput and
 
   <br/>
 
-  <!-- Stats + Top Languages - Inline/Flex -->
   <div style="display:flex; justify-content:center; align-items:center; gap:10px;">
 
     <img
@@ -198,7 +196,6 @@ A lightweight Linux disk I/O benchmark measuring sequential write throughput and
 
   <br/>
 
-  <!-- GitHub Streak - Block Level -->
   <div style="width:70%; margin:0 auto;">
     <img
       width="100%"
