@@ -10,7 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arao1811)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhayrao1118@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-PDF-2EA44F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/arao1118/arao1118/blob/main/Resume.pdf)
 
 </div>
 
