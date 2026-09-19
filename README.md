@@ -148,7 +148,7 @@ A lightweight Linux disk I/O benchmark measuring sequential write throughput and
 <!-- Light theme snake animation -->
 ![GitHub Contribution Snake](https://githubusercontent.com)
 
-<!-- If you want a version that dynamically adapts to GitHub Dark Mode themes, use this instead: -->
+<!-- Dynamic theme mapping that changes automatically based on dark/light mode settings -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
   <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
