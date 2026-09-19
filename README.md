@@ -143,20 +143,6 @@ A lightweight Linux disk I/O benchmark measuring sequential write throughput and
 /> -->
 ---
 
-### My Contribution Snake 🐍
-
-<!-- Light theme snake animation -->
-![GitHub Contribution Snake](https://githubusercontent.com)
-
-<!-- Dynamic theme mapping that changes automatically based on dark/light mode settings -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-  <img alt="GitHub Contribution Snake" src="https://githubusercontent.com">
-</picture>
-
----
-
 ## 🤝 Let's Connect
 
 I'm open to internships and entry-level roles in backend and software development. If you're building something interesting, or just want to talk APIs, systems or C, feel free to reach out.
